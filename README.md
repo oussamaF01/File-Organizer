@@ -54,7 +54,3 @@ File Organizer is a desktop application built using Python and PyQt5. It helps y
 - **Oussama Farhani**  
   - LinkedIn: [@Oussama_Farhani](https://www.linkedin.com/in/oussama-farhani-23ba13306/)
   - GitHub: [oussamaF01](https://github.com/oussamaF01)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
